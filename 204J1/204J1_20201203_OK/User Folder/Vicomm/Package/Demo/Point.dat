@@ -1,0 +1,2 @@
+[Axis]
+Card0 = "{"AxisSpeed":{"Axis":[{"AxisName":"Axis_X","Accel":0.3,"Deaccel":0.3,"Speed":200,"Sramp":0.5},{"AxisName":"Axis_Y","Accel":0,"Deaccel":0,"Speed":0,"Sramp":0},{"AxisName":"Axis_Z","Accel":0,"Deaccel":0,"Speed":0,"Sramp":0},{"AxisName":"Axis_U","Accel":0,"Deaccel":0,"Speed":0,"Sramp":0}]},"Point":[["HM","0","0","0"],["Mark1","0","0","0"],["","","",""]]}"

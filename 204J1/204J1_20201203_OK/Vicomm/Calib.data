@@ -1,0 +1,16 @@
+[DnVision]
+CalibPosition=0,0,0,0
+Offset(mm)=10
+CircleParameter=75,30,200
+threshold=128
+CamCenter=0,0
+Scale=0.03
+Angle=0
+[UpVision]
+CalibPosition=0,0,0,0
+Offset(mm)=10
+CircleParameter=75,30,200
+threshold=128
+CamCenter=0,0
+Scale=0.03
+Angle=0

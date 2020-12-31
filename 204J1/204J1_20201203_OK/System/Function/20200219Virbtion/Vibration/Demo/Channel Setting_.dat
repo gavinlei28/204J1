@@ -1,0 +1,760 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>15.0.1f7</Version>
+<Cluster>
+<Name></Name>
+<NumElts>2</NumElts>
+<Array>
+<Name>Channel Table</Name>
+<Dimsize>6</Dimsize>
+<Cluster>
+<Name>Data</Name>
+<NumElts>5</NumElts>
+<Cluster>
+<Name>Channel 1</Name>
+<NumElts>5</NumElts>
+<U32>
+<Name> frequency 1</Name>
+<Val>20</Val>
+</U32>
+<EW>
+<Name>signal type 1</Name>
+<Choice>Sine Wave</Choice>
+<Choice>Triangle Wave</Choice>
+<Choice>Square Wave</Choice>
+<Choice>Sawtooth Wave</Choice>
+<Val>0</Val>
+</EW>
+<DBL>
+<Name>amplitude 1</Name>
+<Val>1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>offset</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>phase</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Channel 2</Name>
+<NumElts>5</NumElts>
+<U32>
+<Name> frequency 1</Name>
+<Val>25</Val>
+</U32>
+<EW>
+<Name>signal type 1</Name>
+<Choice>Sine Wave</Choice>
+<Choice>Triangle Wave</Choice>
+<Choice>Square Wave</Choice>
+<Choice>Sawtooth Wave</Choice>
+<Val>0</Val>
+</EW>
+<DBL>
+<Name>amplitude 1</Name>
+<Val>1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>offset</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>phase</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Channel 3</Name>
+<NumElts>5</NumElts>
+<U32>
+<Name> frequency 1</Name>
+<Val>25</Val>
+</U32>
+<EW>
+<Name>signal type 1</Name>
+<Choice>Sine Wave</Choice>
+<Choice>Triangle Wave</Choice>
+<Choice>Square Wave</Choice>
+<Choice>Sawtooth Wave</Choice>
+<Val>0</Val>
+</EW>
+<DBL>
+<Name>amplitude 1</Name>
+<Val>1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>offset</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>phase</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Channel 4</Name>
+<NumElts>5</NumElts>
+<U32>
+<Name> frequency 1</Name>
+<Val>25</Val>
+</U32>
+<EW>
+<Name>signal type 1</Name>
+<Choice>Sine Wave</Choice>
+<Choice>Triangle Wave</Choice>
+<Choice>Square Wave</Choice>
+<Choice>Sawtooth Wave</Choice>
+<Val>0</Val>
+</EW>
+<DBL>
+<Name>amplitude 1</Name>
+<Val>1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>offset</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>phase</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Cluster>
+<I32>
+<Name>Time(ms)</Name>
+<Val>1000</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Data</Name>
+<NumElts>5</NumElts>
+<Cluster>
+<Name>Channel 1</Name>
+<NumElts>5</NumElts>
+<U32>
+<Name> frequency 1</Name>
+<Val>25</Val>
+</U32>
+<EW>
+<Name>signal type 1</Name>
+<Choice>Sine Wave</Choice>
+<Choice>Triangle Wave</Choice>
+<Choice>Square Wave</Choice>
+<Choice>Sawtooth Wave</Choice>
+<Val>0</Val>
+</EW>
+<DBL>
+<Name>amplitude 1</Name>
+<Val>1.25000000000000</Val>
+</DBL>
+<DBL>
+<Name>offset</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>phase</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Channel 2</Name>
+<NumElts>5</NumElts>
+<U32>
+<Name> frequency 1</Name>
+<Val>25</Val>
+</U32>
+<EW>
+<Name>signal type 1</Name>
+<Choice>Sine Wave</Choice>
+<Choice>Triangle Wave</Choice>
+<Choice>Square Wave</Choice>
+<Choice>Sawtooth Wave</Choice>
+<Val>0</Val>
+</EW>
+<DBL>
+<Name>amplitude 1</Name>
+<Val>1.25000000000000</Val>
+</DBL>
+<DBL>
+<Name>offset</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>phase</Name>
+<Val>90.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Channel 3</Name>
+<NumElts>5</NumElts>
+<U32>
+<Name> frequency 1</Name>
+<Val>25</Val>
+</U32>
+<EW>
+<Name>signal type 1</Name>
+<Choice>Sine Wave</Choice>
+<Choice>Triangle Wave</Choice>
+<Choice>Square Wave</Choice>
+<Choice>Sawtooth Wave</Choice>
+<Val>0</Val>
+</EW>
+<DBL>
+<Name>amplitude 1</Name>
+<Val>1.25000000000000</Val>
+</DBL>
+<DBL>
+<Name>offset</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>phase</Name>
+<Val>180.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Channel 4</Name>
+<NumElts>5</NumElts>
+<U32>
+<Name> frequency 1</Name>
+<Val>25</Val>
+</U32>
+<EW>
+<Name>signal type 1</Name>
+<Choice>Sine Wave</Choice>
+<Choice>Triangle Wave</Choice>
+<Choice>Square Wave</Choice>
+<Choice>Sawtooth Wave</Choice>
+<Val>0</Val>
+</EW>
+<DBL>
+<Name>amplitude 1</Name>
+<Val>1.25000000000000</Val>
+</DBL>
+<DBL>
+<Name>offset</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>phase</Name>
+<Val>270.00000000000000</Val>
+</DBL>
+</Cluster>
+<I32>
+<Name>Time(ms)</Name>
+<Val>1000</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Data</Name>
+<NumElts>5</NumElts>
+<Cluster>
+<Name>Channel 1</Name>
+<NumElts>5</NumElts>
+<U32>
+<Name> frequency 1</Name>
+<Val>25</Val>
+</U32>
+<EW>
+<Name>signal type 1</Name>
+<Choice>Sine Wave</Choice>
+<Choice>Triangle Wave</Choice>
+<Choice>Square Wave</Choice>
+<Choice>Sawtooth Wave</Choice>
+<Val>0</Val>
+</EW>
+<DBL>
+<Name>amplitude 1</Name>
+<Val>2.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>offset</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>phase</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Channel 2</Name>
+<NumElts>5</NumElts>
+<U32>
+<Name> frequency 1</Name>
+<Val>25</Val>
+</U32>
+<EW>
+<Name>signal type 1</Name>
+<Choice>Sine Wave</Choice>
+<Choice>Triangle Wave</Choice>
+<Choice>Square Wave</Choice>
+<Choice>Sawtooth Wave</Choice>
+<Val>0</Val>
+</EW>
+<DBL>
+<Name>amplitude 1</Name>
+<Val>2.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>offset</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>phase</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Channel 3</Name>
+<NumElts>5</NumElts>
+<U32>
+<Name> frequency 1</Name>
+<Val>0</Val>
+</U32>
+<EW>
+<Name>signal type 1</Name>
+<Choice>Sine Wave</Choice>
+<Choice>Triangle Wave</Choice>
+<Choice>Square Wave</Choice>
+<Choice>Sawtooth Wave</Choice>
+<Val>0</Val>
+</EW>
+<DBL>
+<Name>amplitude 1</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>offset</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>phase</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Channel 4</Name>
+<NumElts>5</NumElts>
+<U32>
+<Name> frequency 1</Name>
+<Val>25</Val>
+</U32>
+<EW>
+<Name>signal type 1</Name>
+<Choice>Sine Wave</Choice>
+<Choice>Triangle Wave</Choice>
+<Choice>Square Wave</Choice>
+<Choice>Sawtooth Wave</Choice>
+<Val>0</Val>
+</EW>
+<DBL>
+<Name>amplitude 1</Name>
+<Val>2.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>offset</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>phase</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Cluster>
+<I32>
+<Name>Time(ms)</Name>
+<Val>1000</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Data</Name>
+<NumElts>5</NumElts>
+<Cluster>
+<Name>Channel 1</Name>
+<NumElts>5</NumElts>
+<U32>
+<Name> frequency 1</Name>
+<Val>25</Val>
+</U32>
+<EW>
+<Name>signal type 1</Name>
+<Choice>Sine Wave</Choice>
+<Choice>Triangle Wave</Choice>
+<Choice>Square Wave</Choice>
+<Choice>Sawtooth Wave</Choice>
+<Val>0</Val>
+</EW>
+<DBL>
+<Name>amplitude 1</Name>
+<Val>2.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>offset</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>phase</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Channel 2</Name>
+<NumElts>5</NumElts>
+<U32>
+<Name> frequency 1</Name>
+<Val>25</Val>
+</U32>
+<EW>
+<Name>signal type 1</Name>
+<Choice>Sine Wave</Choice>
+<Choice>Triangle Wave</Choice>
+<Choice>Square Wave</Choice>
+<Choice>Sawtooth Wave</Choice>
+<Val>0</Val>
+</EW>
+<DBL>
+<Name>amplitude 1</Name>
+<Val>2.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>offset</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>phase</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Channel 3</Name>
+<NumElts>5</NumElts>
+<U32>
+<Name> frequency 1</Name>
+<Val>25</Val>
+</U32>
+<EW>
+<Name>signal type 1</Name>
+<Choice>Sine Wave</Choice>
+<Choice>Triangle Wave</Choice>
+<Choice>Square Wave</Choice>
+<Choice>Sawtooth Wave</Choice>
+<Val>0</Val>
+</EW>
+<DBL>
+<Name>amplitude 1</Name>
+<Val>2.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>offset</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>phase</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Channel 4</Name>
+<NumElts>5</NumElts>
+<U32>
+<Name> frequency 1</Name>
+<Val>0</Val>
+</U32>
+<EW>
+<Name>signal type 1</Name>
+<Choice>Sine Wave</Choice>
+<Choice>Triangle Wave</Choice>
+<Choice>Square Wave</Choice>
+<Choice>Sawtooth Wave</Choice>
+<Val>0</Val>
+</EW>
+<DBL>
+<Name>amplitude 1</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>offset</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>phase</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Cluster>
+<I32>
+<Name>Time(ms)</Name>
+<Val>1000</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Data</Name>
+<NumElts>5</NumElts>
+<Cluster>
+<Name>Channel 1</Name>
+<NumElts>5</NumElts>
+<U32>
+<Name> frequency 1</Name>
+<Val>0</Val>
+</U32>
+<EW>
+<Name>signal type 1</Name>
+<Choice>Sine Wave</Choice>
+<Choice>Triangle Wave</Choice>
+<Choice>Square Wave</Choice>
+<Choice>Sawtooth Wave</Choice>
+<Val>0</Val>
+</EW>
+<DBL>
+<Name>amplitude 1</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>offset</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>phase</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Channel 2</Name>
+<NumElts>5</NumElts>
+<U32>
+<Name> frequency 1</Name>
+<Val>25</Val>
+</U32>
+<EW>
+<Name>signal type 1</Name>
+<Choice>Sine Wave</Choice>
+<Choice>Triangle Wave</Choice>
+<Choice>Square Wave</Choice>
+<Choice>Sawtooth Wave</Choice>
+<Val>0</Val>
+</EW>
+<DBL>
+<Name>amplitude 1</Name>
+<Val>2.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>offset</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>phase</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Channel 3</Name>
+<NumElts>5</NumElts>
+<U32>
+<Name> frequency 1</Name>
+<Val>25</Val>
+</U32>
+<EW>
+<Name>signal type 1</Name>
+<Choice>Sine Wave</Choice>
+<Choice>Triangle Wave</Choice>
+<Choice>Square Wave</Choice>
+<Choice>Sawtooth Wave</Choice>
+<Val>0</Val>
+</EW>
+<DBL>
+<Name>amplitude 1</Name>
+<Val>2.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>offset</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>phase</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Channel 4</Name>
+<NumElts>5</NumElts>
+<U32>
+<Name> frequency 1</Name>
+<Val>25</Val>
+</U32>
+<EW>
+<Name>signal type 1</Name>
+<Choice>Sine Wave</Choice>
+<Choice>Triangle Wave</Choice>
+<Choice>Square Wave</Choice>
+<Choice>Sawtooth Wave</Choice>
+<Val>0</Val>
+</EW>
+<DBL>
+<Name>amplitude 1</Name>
+<Val>2.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>offset</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>phase</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Cluster>
+<I32>
+<Name>Time(ms)</Name>
+<Val>1000</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Data</Name>
+<NumElts>5</NumElts>
+<Cluster>
+<Name>Channel 1</Name>
+<NumElts>5</NumElts>
+<U32>
+<Name> frequency 1</Name>
+<Val>25</Val>
+</U32>
+<EW>
+<Name>signal type 1</Name>
+<Choice>Sine Wave</Choice>
+<Choice>Triangle Wave</Choice>
+<Choice>Square Wave</Choice>
+<Choice>Sawtooth Wave</Choice>
+<Val>0</Val>
+</EW>
+<DBL>
+<Name>amplitude 1</Name>
+<Val>2.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>offset</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>phase</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Channel 2</Name>
+<NumElts>5</NumElts>
+<U32>
+<Name> frequency 1</Name>
+<Val>0</Val>
+</U32>
+<EW>
+<Name>signal type 1</Name>
+<Choice>Sine Wave</Choice>
+<Choice>Triangle Wave</Choice>
+<Choice>Square Wave</Choice>
+<Choice>Sawtooth Wave</Choice>
+<Val>0</Val>
+</EW>
+<DBL>
+<Name>amplitude 1</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>offset</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>phase</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Channel 3</Name>
+<NumElts>5</NumElts>
+<U32>
+<Name> frequency 1</Name>
+<Val>25</Val>
+</U32>
+<EW>
+<Name>signal type 1</Name>
+<Choice>Sine Wave</Choice>
+<Choice>Triangle Wave</Choice>
+<Choice>Square Wave</Choice>
+<Choice>Sawtooth Wave</Choice>
+<Val>0</Val>
+</EW>
+<DBL>
+<Name>amplitude 1</Name>
+<Val>2.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>offset</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>phase</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Channel 4</Name>
+<NumElts>5</NumElts>
+<U32>
+<Name> frequency 1</Name>
+<Val>25</Val>
+</U32>
+<EW>
+<Name>signal type 1</Name>
+<Choice>Sine Wave</Choice>
+<Choice>Triangle Wave</Choice>
+<Choice>Square Wave</Choice>
+<Choice>Sawtooth Wave</Choice>
+<Val>0</Val>
+</EW>
+<DBL>
+<Name>amplitude 1</Name>
+<Val>2.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>offset</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>phase</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Cluster>
+<I32>
+<Name>Time(ms)</Name>
+<Val>1000</Val>
+</I32>
+</Cluster>
+</Array>
+<Array>
+<Name>Model List name</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name>String</Name>
+<Val>Bump</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Center</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Front</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Left</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Back</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Right</Val>
+</String>
+</Array>
+</Cluster>
+</LVData>
